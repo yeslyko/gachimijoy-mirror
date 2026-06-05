@@ -1,2 +1,2 @@
-# BMS-Table-Template
-BMS難易度表のテンプレートです。
+# Gachimijoy mirror
+[Go here for more info](https://yeslyko.github.io/gachimijoy-mirror/)
